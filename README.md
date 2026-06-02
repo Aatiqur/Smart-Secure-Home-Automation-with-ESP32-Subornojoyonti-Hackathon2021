@@ -26,3 +26,4 @@ Features:
   - Develop a mobile app using Android Studio to control and monitor all features.
   - Use Firebase as the cloud server for data storage and synchronization.
 
+Demo Video: https://youtu.be/TUPxk0EowxE
